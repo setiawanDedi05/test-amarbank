@@ -1,0 +1,10 @@
+export const FETCH_MOVIES = 'fetchMovies';
+export const FETCH_CHARACTER = 'fetchCharacter';
+export const ERROR_M = 'errorMovies';
+export const ERROR_C = 'errorCharacter'
+export const LOADING_M = 'loadingMovies'
+export const LOADING_C = 'loadingCharacter'
+export const FETCH_DETAILS_MOVIE = 'detailsMovies'
+export const FETCH_DETAILS_CHARACTER = 'detailsCharacter'
+export const LOADING_DM = 'loadingDetailsMovie'
+export const LOADING_DC = 'loadingDetailsCharacter'
